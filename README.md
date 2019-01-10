@@ -1,5 +1,5 @@
 # Donate_button
-This repo contains the donate button code for my blog site. The button can be viewed from [this link](https://sashuu6.github.io/Donate_button/).
+This repo contains the donate button code for my blog site. The button can be viewed from [this link](https://sashuu6.github.io/donate_button/).
 
 ![Homepage](/docs/home-page.png)
 
